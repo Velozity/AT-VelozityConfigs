@@ -2,7 +2,7 @@
 You can find the download for [AimTux Here.](https://github.com/McSwaggens/AimTux)
 
 # Installing Configs
-Navigate to `~/.config` and place the configuration folder in the `AimTux` folder.
+Navigate to `~/.config/AimTux` and insert the folders inside of the `Configs` folder.
 
 OR
 
