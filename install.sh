@@ -1,7 +1,7 @@
 #!/bin/bash
 
-mkdir -p ~/.config/AimTux/
-cp -r VRage/* ~/.config/AimTux/
+mkdir -p ~/.config/AimTux/VRage/
+cp -r VRage/* ~/.config/AimTux/VRage/
 echo Complete.
 echo Happy Hacking.
 
