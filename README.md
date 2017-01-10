@@ -8,3 +8,6 @@ OR
 
 Install them using the `./install.sh` script.
 
+# Screenshots
+![Menu](http://i.imgur.com/m5Hrcmg.jpg)
+
