@@ -62,7 +62,7 @@
          "value" : 0.8760000467300415
       },
       "aimkey" : "MOUSE3",
-      "aimkey_only" : true,
+      "aimkey_only" : false,
       "bone" : 8,
       "enabled" : true,
       "friendly" : false,
