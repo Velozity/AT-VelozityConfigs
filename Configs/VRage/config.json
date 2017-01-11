@@ -18,7 +18,7 @@
          "fov" : 180
       },
       "AutoCrouch" : {
-         "enabled" : false
+         "enabled" : true
       },
       "AutoPistol" : {
          "enabled" : true
