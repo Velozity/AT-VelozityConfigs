@@ -14,8 +14,8 @@
          "value" : 25
       },
       "AutoAim" : {
-         "enabled" : false,
-         "fov" : 2.2730000019073486
+         "enabled" : true,
+         "fov" : 4.0910000801086426
       },
       "AutoCrouch" : {
          "enabled" : false
@@ -46,20 +46,20 @@
          "enabled" : false
       },
       "RCS" : {
-         "always_on" : true,
+         "always_on" : false,
          "enabled" : true,
-         "value" : 1.4800000190734863
+         "value" : 1.843000054359436
       },
       "SmokeCheck" : {
          "enabled" : true
       },
       "Smooth" : {
          "Salting" : {
-            "enabled" : false,
-            "multiplier" : 0.40500003099441528
+            "enabled" : true,
+            "multiplier" : 0.046000003814697266
          },
-         "enabled" : false,
-         "value" : 0.92700004577636719
+         "enabled" : true,
+         "value" : 0.8760000467300415
       },
       "aimkey" : "MOUSE3",
       "aimkey_only" : true,
@@ -92,13 +92,13 @@
       }
    },
    "AutoAccept" : {
-      "enabled" : false
+      "enabled" : true
    },
    "AutoDefuse" : {
       "enabled" : false
    },
    "AutoStrafe" : {
-      "enabled" : false,
+      "enabled" : true,
       "type" : 0
    },
    "Autoblock" : {
@@ -967,22 +967,22 @@
    },
    "Triggerbot" : {
       "Delay" : {
-         "enabled" : false,
-         "value" : 250
+         "enabled" : true,
+         "value" : 23
       },
       "Filters" : {
          "allies" : false,
-         "arms" : false,
-         "chest" : false,
-         "enemies" : false,
-         "head" : false,
-         "legs" : false,
-         "smoke_check" : false,
-         "stomach" : false,
+         "arms" : true,
+         "chest" : true,
+         "enemies" : true,
+         "head" : true,
+         "legs" : true,
+         "smoke_check" : true,
+         "stomach" : true,
          "walls" : false
       },
-      "enabled" : false,
-      "key" : "ALT"
+      "enabled" : true,
+      "key" : "q"
    },
    "UI" : {
       "Fonts" : {
