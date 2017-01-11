@@ -15,13 +15,13 @@
       },
       "AutoAim" : {
          "enabled" : false,
-         "fov" : 180
+         "fov" : 2.2730000019073486
       },
       "AutoCrouch" : {
          "enabled" : false
       },
       "AutoPistol" : {
-         "enabled" : false
+         "enabled" : true
       },
       "AutoShoot" : {
          "autoscope" : false,
@@ -46,25 +46,25 @@
          "enabled" : false
       },
       "RCS" : {
-         "always_on" : false,
-         "enabled" : false,
-         "value" : 2
+         "always_on" : true,
+         "enabled" : true,
+         "value" : 1.4800000190734863
       },
       "SmokeCheck" : {
-         "enabled" : false
+         "enabled" : true
       },
       "Smooth" : {
          "Salting" : {
             "enabled" : false,
-            "multiplier" : 0
+            "multiplier" : 0.40500003099441528
          },
          "enabled" : false,
-         "value" : 0
+         "value" : 0.92700004577636719
       },
       "aimkey" : "MOUSE3",
-      "aimkey_only" : false,
+      "aimkey_only" : true,
       "bone" : 8,
-      "enabled" : false,
+      "enabled" : true,
       "friendly" : false,
       "silent" : false
    },
@@ -511,8 +511,8 @@
       "zoom" : 16
    },
    "Recoilcrosshair" : {
-      "enabled" : false,
-      "showOnlyWhenShooting" : false
+      "enabled" : true,
+      "showOnlyWhenShooting" : true
    },
    "Resolver" : {
       "resolve_all" : true
