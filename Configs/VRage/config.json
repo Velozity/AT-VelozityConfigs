@@ -66,6 +66,63 @@
                "Type" : 0
             },
             "TargetBone" : 8
+         },
+         "WEAPON_AK47" : {
+            "AimKey" : "MOUSE3",
+            "AimKeyOnly" : false,
+            "AimStep" : {
+               "Amount" : 25,
+               "Enabled" : false
+            },
+            "AutoAim" : {
+               "Enabled" : true,
+               "FOV" : 180.00001525878906
+            },
+            "AutoPistol" : {
+               "Enabled" : true
+            },
+            "AutoScope" : {
+               "Enabled" : false
+            },
+            "AutoShoot" : {
+               "Enabled" : true
+            },
+            "AutoWall" : {
+               "Bones" : [ true, true, true, true, true, true ],
+               "Enabled" : true,
+               "Value" : 0.31400001049041748
+            },
+            "Enabled" : true,
+            "ErrorMargin" : {
+               "Enabled" : false,
+               "Value" : 0
+            },
+            "Friendly" : false,
+            "IgnoreJump" : {
+               "Enabled" : false
+            },
+            "NoShoot" : {
+               "Enabled" : false
+            },
+            "RCS" : {
+               "AlwaysOn" : true,
+               "Amount" : 2,
+               "Enabled" : true
+            },
+            "Silent" : true,
+            "SmokeCheck" : {
+               "Enabled" : false
+            },
+            "Smooth" : {
+               "Amount" : 0.85800004005432129,
+               "Enabled" : false,
+               "Salting" : {
+                  "Enabled" : false,
+                  "Multiplier" : 0.099000006914138794
+               },
+               "Type" : 0
+            },
+            "TargetBone" : 8
          }
       }
    },
